@@ -1,0 +1,13 @@
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\bin\Debug\netcoreapp3.1\GenericsDictionary.exe
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\bin\Debug\netcoreapp3.1\GenericsDictionary.deps.json
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\bin\Debug\netcoreapp3.1\GenericsDictionary.runtimeconfig.json
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\bin\Debug\netcoreapp3.1\GenericsDictionary.runtimeconfig.dev.json
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\bin\Debug\netcoreapp3.1\GenericsDictionary.dll
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\bin\Debug\netcoreapp3.1\GenericsDictionary.pdb
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\obj\Debug\netcoreapp3.1\GenericsDictionary.csprojAssemblyReference.cache
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\obj\Debug\netcoreapp3.1\GenericsDictionary.AssemblyInfoInputs.cache
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\obj\Debug\netcoreapp3.1\GenericsDictionary.AssemblyInfo.cs
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\obj\Debug\netcoreapp3.1\GenericsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\obj\Debug\netcoreapp3.1\GenericsDictionary.dll
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\obj\Debug\netcoreapp3.1\GenericsDictionary.pdb
+C:\Users\Lansman Computer\source\repos\ClassMetotDemo\GenericsDictionary\obj\Debug\netcoreapp3.1\GenericsDictionary.genruntimeconfig.cache
